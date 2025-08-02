@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619069499302",
+    "project_id": "rezappid",
+    "storage_bucket": "rezappid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619069499302:android:75e7f85e388509bcaf1167",
+        "android_client_info": {
+          "package_name": "com.rezka.rezid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP86X_BBeT3NdKgynJ03OBhzQvdsjG4QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
